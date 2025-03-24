@@ -1,0 +1,40 @@
+IMPORTANTE !
+
+#Los gráficos se muestran en ventanas individuales. 
+#Es necesario cerrar cada ventana para que se genere un nuevo gráfico.
+
+__________________________________________________________________________
+
+# Definimos las tarifas para cada tipo de vehículo
+
+# Función para seleccionar un tipo de vehículo aleatoriamente
+
+# Lista de tipos de vehículos disponibles
+
+# Selección aleatoria de un tipo de vehículo
+
+# Inicializamos las colas para cada una de las 3 cabinas de peaje
+
+# Distribuimos 300 vehículos aleatorios entre las cabinas
+
+# Selecciona una cabina aleatoriamente y agrega el vehículo a esa cabina
+
+# Función para procesar las cabinas y calcular la recaudación y el conteo de vehículos
+
+# Inicializamos listas para almacenar la recaudación y el conteo de vehículos por cabina
+
+# Procesamos cada cabina individualmente
+
+# Mientras haya vehículos en la cabina
+
+# Extraemos el vehículo actual
+
+# Acumulamos el total de dinero recaudado en la cabina
+
+# Contamos el número de cada tipo de vehículo atendido
+
+# Llamamos a la función para procesar las cabinas y obtener los resultados
+
+# Encontramos la cabina con la mayor recaudación
+
+# Imprimimos los resultados de manera detallada
