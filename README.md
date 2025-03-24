@@ -12,7 +12,7 @@ Este proyecto es un **simulador de peaje** desarrollado en **Python**, que utili
 ## 📸 Capturas
 Ejemplo de gráficos generados:
 
-![Gráfico de Cainba 1](images/vehiculos atendidos_cabina_1.png)
+![Gráfico de Cainba 1](https://github.com/exequiel-exe/Cabinas_de_Peajes-Python/blob/main/images/vehiculos%20atendidos_cabina_1.png?raw=true)
 ![Gráfico de Cainba 2](images/vehiculos atendidos_cabina_2.png)
 ![Gráfico de Cainba 3](images/vehiculos atendidos_cabina_3.png)
 ![Gráfico de Recaudacion total](images/recaudacion total_cabinas_.png)
