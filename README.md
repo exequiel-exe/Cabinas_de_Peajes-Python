@@ -13,9 +13,9 @@ Este proyecto es un **simulador de peaje** desarrollado en **Python**, que utili
 Ejemplo de gráficos generados:
 
 ![Gráfico de Cainba 1](https://github.com/exequiel-exe/Cabinas_de_Peajes-Python/blob/main/images/vehiculos%20atendidos_cabina_1.png?raw=true)
-![Gráfico de Cainba 2](images/vehiculos atendidos_cabina_2.png)
-![Gráfico de Cainba 3](images/vehiculos atendidos_cabina_3.png)
-![Gráfico de Recaudacion total](images/recaudacion total_cabinas_.png)
+![Gráfico de Cainba 2](https://github.com/exequiel-exe/Cabinas_de_Peajes-Python/blob/main/images/vehiculos%20atendidos_cabina_2.png?raw=true)
+![Gráfico de Cainba 3](https://github.com/exequiel-exe/Cabinas_de_Peajes-Python/blob/main/images/vehiculos%20atendidos_cabina_3.png?raw=true)
+![Gráfico de Recaudacion total](https://github.com/exequiel-exe/Cabinas_de_Peajes-Python/blob/main/images/recaudacion%20total_cabinas_.png?raw=true)
 
 ## 📊 Datos que procesa el simulador
 - **Tarifas**: Cada tipo de vehículo tiene una tarifa específica.
